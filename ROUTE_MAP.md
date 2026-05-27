@@ -7,6 +7,9 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/move-day-exceptions`
+- `/crew-truck-scheduling`
+- `/moving-estimates`
 - `/records`
 - `/workspaces`
 - `/requests`

@@ -18,3 +18,13 @@
 - Profiles
 - AI Assistant
 - AI Tools
+
+## Moving Company
+
+- Moving Estimates
+- Crew/Truck Scheduling
+- Move Day Exceptions
+
+## Focused enhancement: Moving Company
+
+Source evidence: movingCompany.
